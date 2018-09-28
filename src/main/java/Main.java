@@ -17,6 +17,7 @@ public class Main {
             }
         }
 
+
 //        draw1.square(0.1,0.1,0.1);
 //        draw1.square(0.35,0.1,0.1);
 
@@ -41,6 +42,10 @@ public class Main {
 //            StdDraw.clear();
 //        }
 
+    }
+
+    public static void  ShowSomething(){
+        System.out.println("kek");
     }
 
 }
